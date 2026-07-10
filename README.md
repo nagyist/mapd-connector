@@ -1,4 +1,9 @@
 # HeavyAI Connector
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/heavyai/heavyai-connector/blob/master/LICENSE)
+[![Security](https://img.shields.io/badge/Security-Report%20a%20Vulnerability-red.svg)](https://github.com/heavyai/heavyai-connector/blob/master/SECURITY.md)
+[![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-blue?logo=github)](https://github.com/orgs/heavyai/discussions)
+
+
 
 A JavaScript library for connecting to a HeavyAI GPU database and running
 queries.
@@ -82,9 +87,17 @@ Every third-party module from npm that gets includes in the final, distributed b
 
 License descriptions and public license URLs are maintained in licenses.json as well, but they are not verified and might not be up to date.
 
-## Contributing
+# Security
+> [!WARNING]
+> **Do not report security vulnerabilities through public GitHub issues!**
 
-Interested in contributing? We'd love for you to help! Check out
-[Contributing.MD](.github/CONTRIBUTING.md)
+NVIDIA takes security seriously. If you discover a vulnerability in heavyai-connector, **DO NOT open a public issue**. Use one of the private reporting channels described in [SECURITY.md](https://github.com/heavyai/heavyai-connector/blob/master/SECURITY.md).
+
+# Support
+Join the [HeavyAI GitHub Discussions](https://github.com/orgs/heavyai/discussions) to ask questions, share feedback, and report issues. HeavyAI maintainers review issues, discussions, and pull requests on a best effort basis without guaranteed response timelines.
+  
+# License
+Apache 2.0. See [LICENSE](https://github.com/heavyai/heavyai-connector/blob/master/LICENSE).
+
 
 *Variables and function names are used as convention and do not reference any commercial product.*
