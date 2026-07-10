@@ -91,7 +91,7 @@ License descriptions and public license URLs are maintained in licenses.json as 
 > [!WARNING]
 > **Do not report security vulnerabilities through public GitHub issues!**
 
-NVIDIA takes security seriously. If you discover a vulnerability in heavyai-connector, **DO NOT open a public issue**. Use one of the private reporting channels described in [SECURITY.md](https://github.com/heavyai/heavyai-connector/blob/master/SECURITY.md).
+NVIDIA takes security seriously. If you discover a vulnerability in HeavyAI Connector, **DO NOT open a public issue**. Use one of the private reporting channels described in [SECURITY.md](https://github.com/heavyai/heavyai-connector/blob/master/SECURITY.md).
 
 # Support
 Join the [HeavyAI GitHub Discussions](https://github.com/orgs/heavyai/discussions) to ask questions, share feedback, and report issues. HeavyAI maintainers review issues, discussions, and pull requests on a best effort basis without guaranteed response timelines.
